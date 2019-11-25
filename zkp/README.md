@@ -2,6 +2,7 @@
 
 - Basic Cryptography Background
     - Hashing
+    - Encryption
     - Modular Arithmetic
     - Diffie-Hellman
     - RSA
