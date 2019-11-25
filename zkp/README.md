@@ -3,7 +3,7 @@
 - Basic Cryptography Background
     - Hashing
     - Encryption
-    - Modular Arithmetic
+    - [Modular Arithmetic](modular_arithmetic/README.md)
     - Diffie-Hellman
     - RSA
     - Discrete-Log problem
