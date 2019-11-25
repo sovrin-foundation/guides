@@ -1,5 +1,5 @@
 # Guides
 
-Here we discuss various topics about Sovrin.
+Here we share a number of guides about Sovrin.
 
 - [ZKP](zkp/README.md)
